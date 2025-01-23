@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ankit vishwakarma</h1>
-<h3 align="center">I'm a Machine Learning Engineer specializing in NLP, Computer Vision, and Recommender Systems. I like solving complexlems revolving around data. I am also a secondary web developer!</h3>
+<h3 align="center">I'm a Machine Learning Engineer with expertise in NLP and Deep Learning</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankitvishwakarmaml&label=Profile%20views&color=0e75b6&style=flat" alt="ankitvishwakarmaml" /> </p>
 
-- 🔭 I’m currently **researching and experimenting with multimodal Vision-Language Models!**
+- 🔭 I’m currently **researching and experimenting with Large-Language Models!**
 
 - 🌱 I’m currently learning **something new every day.**
 

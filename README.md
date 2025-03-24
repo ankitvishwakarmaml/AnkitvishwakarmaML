@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-👋 Hi, I'm Ankit Vishwakarma!<br>💡 Transitioning into AI from a non-tech background.<br>🔬 Passionate about machine learning, NLP, and deep learning.<br>📚 Self-taught AI enthusiast, always learning and building.<br>🚀 Open to collaborations and AI projects!
+👋 Hi, I'm Ankit Vishwakarma!<br>💡 Transitioned into AI from a non-tech background.<br>🔬 Passionate about artificial intelligence and robotics.<br>📚 Self-taught AI enthusiast, always learning and building.<br>🚀 Open to collaborations and AI projects!
 
 
 ## 🌐 Socials:
